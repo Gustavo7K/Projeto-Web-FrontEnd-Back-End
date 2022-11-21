@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Righteous&display=swap');
+body{
+color: white;
+    background: #201b2c;
+    font-family: 'DynaPuff', cursive;
+}
+
+
+.texto{
+    align-items: center;
+    padding: 7px;
+    display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+        font-size: 20px;
+    }
+
+    .imagem{
+
+        width: 500px;
+        align-items: center;
+        justify-content: space-around;
+        flex-direction: row;
+        display: flex;
+        
+        margin: auto;
+    }

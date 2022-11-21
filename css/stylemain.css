@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Righteous&display=swap');
+body{
+color: white;
+    background: #201b2c;
+    font-family: 'DynaPuff', cursive;
+}
+
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+    font-size: 40px;
+    background-color: #3e0ac2 ;
+    height: 60PX;
+    
+}
+
+
+.cabecalho-menu{
+    display: flex;
+    gap: 32px;
+    cursor: pointer;
+}
+
+.cabecalho-item{
+    font-family: 'Righteous', cursive;
+    color: white;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+
+.conteudo-imagem{
+
+width: 400px;
+height: 500px;
+padding: 12px;
+size: 281px;
+align-items: center;
+margin: 85px;
+border: 4px solid  ;
+}
+
+.rodape-texto{
+
+align-items: center;
+padding: 10px;
+display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 15px;
+    background-color: #3e0ac2 ;
+    margin: auto;
+}
+
+.logo{
+
+    width: 200px;
+    align-items: left;
+}
+
+
+
+.redes-sociais ul li{
+
+   
+display: flex;
+float: left;
+padding: 7px;   
+
+}
+
+.redes-sociais{
+
+ 
+    float: right;
+ 
+}
